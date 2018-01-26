@@ -1,7 +1,7 @@
 # GridWorld
 
-Grid World is a simple application to create a Grid World with the neccssary actors, bugs, jumpers, critters, 
-flowers, and all necessary elements to create the structure of the program.
+Grid World is a simple application to create a Grid with neccssary objects to use the grid space including 
+actors, bugs, jumpers, critters,flowers, and all necessary elements to create the structure of the program.
 
 # Projects folder
 Contains basic structures for jumper, boxBug, critters, and bugRunner
